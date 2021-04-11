@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fileSelector/fileSelector.iml" filepath="$PROJECT_DIR$/fileSelector/fileSelector.iml" group="networklog_modify/fileSelector" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" group="networklog_modify/library" />
+      <module fileurl="file://$PROJECT_DIR$/networklog/networklog.iml" filepath="$PROJECT_DIR$/networklog/networklog.iml" group="networklog_modify/networklog" />
+      <module fileurl="file://$PROJECT_DIR$/networklog_modify.iml" filepath="$PROJECT_DIR$/networklog_modify.iml" group="networklog_modify" />
+    </modules>
+  </component>
+</project>
