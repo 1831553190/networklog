@@ -58,11 +58,11 @@ _Note: While the app itself is designed to use minimal CPU/battery, you can furt
 
 
 
-<a href="https://github.com/1831553190/networklog/blob/master/screenshots/page_main.jpg"><img height="535" width="320" src="https://github.com/1831553190/networklog/blob/master/screenshots/page_main.jpg"></img></a>
+<a href="https://github.com/1831553190/networklog/blob/master/screenshots/page_main.jpg"><img height="640" width="320" src="https://github.com/1831553190/networklog/blob/master/screenshots/page_main.jpg"></img></a>
 &nbsp;
-<a href="https://github.com/1831553190/networklog/blob/master/screenshots/page_setting.jpg"><img height="535" width="320" src="https://github.com/1831553190/networklog/blob/master/screenshots/page_setting.jpg"></img></a>
+<a href="https://github.com/1831553190/networklog/blob/master/screenshots/page_setting.jpg"><img height="640" width="320" src="https://github.com/1831553190/networklog/blob/master/screenshots/page_setting.jpg"></img></a>
 &nbsp;
-<a href="https://github.com/1831553190/networklog/blob/master/screenshots/page1.jpg"><img height="535" width="320" src="https://github.com/1831553190/networklog/blob/master/screenshots/page1.jpg"></img></a>
+<a href="https://github.com/1831553190/networklog/blob/master/screenshots/page1.jpg"><img height="640" width="320" src="https://github.com/1831553190/networklog/blob/master/screenshots/page1.jpg"></img></a>
 &nbsp;
 
 
